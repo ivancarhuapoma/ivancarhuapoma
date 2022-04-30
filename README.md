@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivancarhuapoma 
 - 👀 I’m interested about data engineering/science
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently playing with Neural network 💻
 - 👨🏻 I'm looking for my first job as a developer 
 
 <!---
